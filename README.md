@@ -67,3 +67,5 @@ Este é um código para um sistema de monitoramento de saúde baseado utilizando
    - Publica a temperatura corporal.
 
 **Nota:** Certifique-se de ajustar as configurações de Wi-Fi e MQTT para corresponder ao seu ambiente.
+# Link para um vídeo explicando com mais detalhes o projeto:
+https://youtu.be/5Oj7pZV8qNo
