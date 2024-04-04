@@ -2,9 +2,9 @@
 
 > Status: Finalizado ✔️
 
-## Grupo:
-- Gabriel Rocha – RM: 550788 
-- Gustavo Calce – RM: 550638
+## Responsável do projeto:
+- Gabriel Diegues Figueiredo Rocha
+- Linkedin: www.linkedin.com/in/gabrieldiegues
 
 ![image](https://github.com/gabrieldfr/GlobalSolution_Edge/assets/127216244/09836462-0fab-4659-bbf3-d6b6f66dcd16)
 
